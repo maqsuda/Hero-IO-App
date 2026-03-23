@@ -7,6 +7,8 @@ import Installation from "../components/Installation";
 import { Suspense } from "react";
 
 import AppDetails from "../components/AppDetails";
+import ErrorPages from "../components/ErrorPages";
+import AppError from "../components/AppError";
 
 const allAppPromise = fetch("/heroData.json").then((res) => res.json());
 // const trendingPromise = fetch("/herodata8.json").then((res) => res.json());
@@ -58,5 +60,9 @@ export const router = createBrowserRouter([
         ),
       },
     ],
+  },
+  {
+    path: "/error",
+    element: <AppError></AppError>,
   },
 ]);

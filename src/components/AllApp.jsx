@@ -1,15 +1,17 @@
 import React, { use, useState } from "react";
 import { CiSearch } from "react-icons/ci";
 import App from "../components/App";
-import { toast, ToastContainer } from "react-toastify";
+import { ToastContainer } from "react-toastify";
+import { Navigate, useNavigate } from "react-router-dom";
 
 const AllApp = ({ allAppPromise }) => {
   const allAppData = use(allAppPromise);
 
   const [isFocused, setIsFocused] = useState(false);
   const [appData, setAppData] = useState(allAppData);
+  const navigate = useNavigate();
 
-  const notify = () => toast("No App Found!");
+  // const notify = () => toast("No App Found!");
   const handleSearch = (e) => {
     e.preventDefault();
     const search = e.target.nameSearch.value;
@@ -18,7 +20,11 @@ const AllApp = ({ allAppPromise }) => {
       item.title.toLowerCase().includes(search.toLowerCase()),
     );
     if (filteredData.length == 0) {
-      notify();
+      navigate("/error");
+      // <Navigate to="/error" />;
+      // <Navigate to="/login" replace />
+      // notify();
+      // <Navigate to="/Error"></Navigate>;
     }
 
     setAppData(filteredData);

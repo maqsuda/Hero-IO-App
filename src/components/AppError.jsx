@@ -3,15 +3,16 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { Outlet } from "react-router";
 import ErrorPages from "../components/ErrorPages";
+import AppNotFound from "./AppNotFound";
 
-const Error = () => {
+const AppError = () => {
   return (
     <div>
       <Navbar></Navbar>
-      <ErrorPages></ErrorPages>
+      <AppNotFound></AppNotFound>
       <Footer></Footer>
     </div>
   );
 };
 
-export default Error;
+export default AppError;

@@ -4,6 +4,7 @@ import { getStoreAppList, removeToStoredAppList } from "../components/AddToDB";
 import { FaDownload } from "react-icons/fa";
 import { IoStar } from "react-icons/io5";
 import { BiSolidLike } from "react-icons/bi";
+// import { useNavigate } from "react-router-dom";
 
 const Installation = ({ allAppPromise }) => {
   const [myAppData, setMyAppData] = useState([]);
@@ -11,6 +12,11 @@ const Installation = ({ allAppPromise }) => {
   const [sort, setSort] = useState([]);
   console.log(sort);
   const tdata = use(allAppPromise);
+  // const navigate = useNavigate();
+
+  // if (myAppData.length == 0) {
+  //   navigate("/error");
+  // }
 
   useEffect(() => {
     const storedApp = getStoreAppList();
@@ -34,7 +40,7 @@ const Installation = ({ allAppPromise }) => {
   };
 
   return (
-    <div className="px-2 py-4 md:p-10 bg-[#d2d2d2]">
+    <div className="px-2 py-4 md:p-10 bg-[#d2d2d2] min-h-screen">
       <div className="text-center">
         <h1 className="text-2xl md:text-4xl font-bold">Your Installed Apps</h1>
 
