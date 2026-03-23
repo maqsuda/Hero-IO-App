@@ -1,0 +1,687 @@
+[
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "Focus Timer",
+    "companyName": "Mindful Apps Inc.",
+    "id": 1001,
+    "description": "Boost your productivity using the Pomodoro technique with our simple, elegant timer.",
+    "size": 42.7,
+    "reviews": 2845,
+    "ratingAvg": 4.5,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 875 },
+      { "name": "5 star", "count": 1280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "FitNow",
+    "companyName": "Healthify Co.",
+    "id": 1002,
+    "description": "Your AI-powered personal trainer. Workout plans, nutrition, and more in one app.",
+    "size": 89.3,
+    "reviews": 5210,
+    "ratingAvg": 4.2,
+    "downloads": 2450000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 740 },
+      { "name": "4 star", "count": 1720 },
+      { "name": "5 star", "count": 2220 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "Candy Smash Saga",
+    "companyName": "Sweet Games Studio",
+    "id": 1003,
+    "description": "Match candies in this delicious puzzle adventure to progress to the next level!",
+    "size": 155.2,
+    "reviews": 104321,
+    "ratingAvg": 4.7,
+    "downloads": 10400000,
+    "ratings": [
+      { "name": "1 star", "count": 3400 },
+      { "name": "2 star", "count": 4600 },
+      { "name": "3 star", "count": 8200 },
+      { "name": "4 star", "count": 22000 },
+      { "name": "5 star", "count": 66000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "BudgetPal",
+    "companyName": "FinTech World",
+    "id": 1004,
+    "description": "Manage your expenses and track savings with easy-to-use budgeting tools.",
+    "size": 33.4,
+    "reviews": 3120,
+    "ratingAvg": 4.3,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1050 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
+    "title": "WeatherLite",
+    "companyName": "SkyWatchers",
+    "id": 1005,
+    "description": "Accurate, real-time weather forecasts with radar and storm alerts.",
+    "size": 25.9,
+    "reviews": 7890,
+    "ratingAvg": 4.6,
+    "downloads": 3600000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 4090 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "LangLoop",
+    "companyName": "Eduverse Ltd.",
+    "id": 1006,
+    "description": "Learn 10+ languages through interactive games and real conversations.",
+    "size": 74.1,
+    "reviews": 15930,
+    "ratingAvg": 4.8,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "TaskMaster",
+    "companyName": "Productive Labs",
+    "id": 1007,
+    "description": "Organize your day with smart to-do lists, reminders, and daily planning.",
+    "size": 50.6,
+    "reviews": 9840,
+    "ratingAvg": 4.4,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "NightNote",
+    "companyName": "DreamSoft Studios",
+    "id": 1008,
+    "description": "A minimal, dark-themed note-taking app perfect for late-night thoughts.",
+    "size": 18.9,
+    "reviews": 1430,
+    "ratingAvg": 4.1,
+    "downloads": 640000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 310 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 510 }
+    ]
+  },
+
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "Meal Mate",
+    "companyName": "YumTech Inc.",
+    "id": 2001,
+    "description": "Your weekly meal planner and grocery list companion.",
+    "size": 55.2,
+    "reviews": 4320,
+    "ratingAvg": 4.3,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "Step Counter Pro",
+    "companyName": "MoveWell LLC",
+    "id": 2002,
+    "description": "Accurate step counting with offline support and fitness stats.",
+    "size": 24.7,
+    "reviews": 2380,
+    "ratingAvg": 4.0,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 870 },
+      { "name": "5 star", "count": 570 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "PetPal",
+    "companyName": "Furry Friends Co.",
+    "id": 2003,
+    "description": "Track your pet’s health, vaccinations, and reminders in one place.",
+    "size": 38.0,
+    "reviews": 3210,
+    "ratingAvg": 4.5,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 950 },
+      { "name": "5 star", "count": 1460 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "Art Gallery",
+    "companyName": "Creative Visions",
+    "id": 2004,
+    "description": "Browse and share beautiful artwork and photography from around the world.",
+    "size": 110.5,
+    "reviews": 8750,
+    "ratingAvg": 4.7,
+    "downloads": 4300000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 620 },
+      { "name": "3 star", "count": 1300 },
+      { "name": "4 star", "count": 2700 },
+      { "name": "5 star", "count": 4050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
+    "title": "Child Sleep Sounds",
+    "companyName": "CalmKids Studio",
+    "id": 2005,
+    "description": "Soothing lullabies and white noise to help children sleep peacefully.",
+    "size": 95.6,
+    "reviews": 6720,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1600 },
+      { "name": "5 star", "count": 4160 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Snap & Edit",
+    "companyName": "PixelForge Labs",
+    "id": 2006,
+    "description": "Powerful photo editing tools, filters, and creative overlays.",
+    "size": 130.8,
+    "reviews": 14980,
+    "ratingAvg": 4.4,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "Voice Translator",
+    "companyName": "SpeakEasy Tech",
+    "id": 2007,
+    "description": "Translate speech in real time into multiple languages.",
+    "size": 67.5,
+    "reviews": 10230,
+    "ratingAvg": 4.3,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 780 },
+      { "name": "3 star", "count": 1340 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 6020 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "Meditation Hub",
+    "companyName": "ZenFlow Studios",
+    "id": 2008,
+    "description": "Guided meditations, breathing exercises, and sleep stories.",
+    "size": 80.2,
+    "reviews": 13450,
+    "ratingAvg": 4.9,
+    "downloads": 6200000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 2450 },
+      { "name": "5 star", "count": 10040 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "Daily Quotes",
+    "companyName": "Inspirar Media",
+    "id": 2009,
+    "description": "Receive a daily motivational quote to uplift your day.",
+    "size": 12.3,
+    "reviews": 2150,
+    "ratingAvg": 4.2,
+    "downloads": 880000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 690 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "BeatFlow Music",
+    "companyName": "MelodyMaker Inc.",
+    "id": 2010,
+    "description": "Stream your favorite songs, playlist creation, and discovery.",
+    "size": 145.4,
+    "reviews": 28500,
+    "ratingAvg": 4.6,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 9200 },
+      { "name": "5 star", "count": 13700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
+    "title": "RunTracker",
+    "companyName": "ActiveLife Tools",
+    "id": 2011,
+    "description": "Track your runs, map routes, and analyze your performance.",
+    "size": 75.9,
+    "reviews": 11230,
+    "ratingAvg": 4.5,
+    "downloads": 4100000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1040 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Finance Tracker",
+    "companyName": "MoneyWise LLC",
+    "id": 2012,
+    "description": "Track expenses, income, and investing all in one dashboard.",
+    "size": 63.8,
+    "reviews": 14450,
+    "ratingAvg": 4.4,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 8530 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Habit Builder",
+    "companyName": "BetterSelf Apps",
+    "id": 2013,
+    "description": "Build good habits with daily reminders and progress tracking.",
+    "size": 31.7,
+    "reviews": 5230,
+    "ratingAvg": 4.7,
+    "downloads": 2700000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 3010 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "Social Lite",
+    "companyName": "ConnectIt Corp",
+    "id": 2014,
+    "description": "A lightweight social app focused on privacy and essentials.",
+    "size": 28.9,
+    "reviews": 3890,
+    "ratingAvg": 4.1,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 710 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1420 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "Drawing Pad",
+    "companyName": "Artistry Tech",
+    "id": 2015,
+    "description": "Sketch, paint, and doodle with intuitive tools and layers.",
+    "size": 125.3,
+    "reviews": 15670,
+    "ratingAvg": 4.5,
+    "downloads": 5400000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1250 },
+      { "name": "4 star", "count": 4350 },
+      { "name": "5 star", "count": 10170 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "Flashlight Plus",
+    "companyName": "BrightLight Apps",
+    "id": 2016,
+    "description": "High-intensity flashlight with strobe and SOS mode.",
+    "size": 5.1,
+    "reviews": 1720,
+    "ratingAvg": 3.8,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 520 },
+      { "name": "5 star", "count": 250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "Hydro Reminder",
+    "companyName": "Wellness Time Co",
+    "id": 2017,
+    "description": "Stay hydrated with regular reminders throughout your day.",
+    "size": 15.3,
+    "reviews": 2870,
+    "ratingAvg": 4.5,
+    "downloads": 1300000,
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 940 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
+    "title": "CookMaster Recipes",
+    "companyName": "Tasty Studios",
+    "id": 2018,
+    "description": "Thousands of recipes with step‑by‑step instructions and videos.",
+    "size": 102.6,
+    "reviews": 20450,
+    "ratingAvg": 4.6,
+    "downloads": 7600000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 6400 },
+      { "name": "5 star", "count": 8700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Voice Memo Plus",
+    "companyName": "QuickRecord Labs",
+    "id": 2019,
+    "description": "Record, organize, and transcribe your voice notes easily.",
+    "size": 45.4,
+    "reviews": 7390,
+    "ratingAvg": 4.4,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 1040 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3510 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Traffic Alerts",
+    "companyName": "CitySmart Tech",
+    "id": 2020,
+    "description": "Live traffic alerts and route optimization to save your commute time.",
+    "size": 28.2,
+    "reviews": 4980,
+    "ratingAvg": 4.1,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 460 },
+      { "name": "2 star", "count": 720 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 1520 },
+      { "name": "5 star", "count": 1180 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "ParkEasy",
+    "companyName": "UrbanSolutions",
+    "id": 2021,
+    "description": "Find nearby parking spots and compare prices in real time.",
+    "size": 37.7,
+    "reviews": 3120,
+    "ratingAvg": 4.2,
+    "downloads": 1400000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 630 },
+      { "name": "4 star", "count": 1180 },
+      { "name": "5 star", "count": 750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "WordPlay",
+    "companyName": "MindGames Inc.",
+    "id": 2022,
+    "description": "Fun word games to build vocabulary and language skills.",
+    "size": 49.8,
+    "reviews": 9080,
+    "ratingAvg": 4.7,
+    "downloads": 3900000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 1480 },
+      { "name": "5 star", "count": 3910 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "Podcast Player",
+    "companyName": "Audible Waves",
+    "id": 2023,
+    "description": "Stream podcasts, download episodes, and explore trending shows.",
+    "size": 95.0,
+    "reviews": 16050,
+    "ratingAvg": 4.3,
+    "downloads": 5800000,
+    "ratings": [
+      { "name": "1 star", "count": 620 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4700 },
+      { "name": "5 star", "count": 10330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/j9cKH2xd/demoApp4.webp",
+    "title": "Daily Deals",
+    "companyName": "Bargain Hunters",
+    "id": 2024,
+    "description": "Browse top deals and discounts from multiple stores in one app.",
+    "size": 58.4,
+    "reviews": 11220,
+    "ratingAvg": 4.2,
+    "downloads": 4700000,
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2300 },
+      { "name": "4 star", "count": 9400 },
+      { "name": "5 star", "count": 14200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pj67c6n0/demoApp5.webp",
+    "title": "My Diary",
+    "companyName": "Reflection Apps",
+    "id": 2025,
+    "description": "Private diary with mood tracking, journaling, and media attachments.",
+    "size": 29.6,
+    "reviews": 4210,
+    "ratingAvg": 4.5,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 840 },
+      { "name": "4 star", "count": 1420 },
+      { "name": "5 star", "count": 1320 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "Plant Care Guide",
+    "companyName": "GreenThumb Tech",
+    "id": 2026,
+    "description": "Tips, reminders, and care tracking for all your houseplants.",
+    "size": 41.5,
+    "reviews": 3280,
+    "ratingAvg": 4.6,
+    "downloads": 1700000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1050 },
+      { "name": "5 star", "count": 1110 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/spv2tZKH/demoApp6.webp",
+    "title": "BeatMaker Studio",
+    "companyName": "SoundForge Labs",
+    "id": 2027,
+    "description": "Compose and mix your own music with virtual instruments and loops.",
+    "size": 200.1,
+    "reviews": 17240,
+    "ratingAvg": 4.7,
+    "downloads": 7400000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 9370 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/XZJpMHq0/demoApp1.webp",
+    "title": "Split Bill Buddy",
+    "companyName": "Shared Costs Inc.",
+    "id": 2028,
+    "description": "Split bills with friends, track shared expenses, avoid money confusion.",
+    "size": 22.9,
+    "reviews": 2190,
+    "ratingAvg": 4.2,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 530 },
+      { "name": "4 star", "count": 780 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq3HG6HF/demoApp2.webp",
+    "title": "ReadTrack",
+    "companyName": "BookWorm Soft",
+    "id": 2029,
+    "description": "Track your reading goals, books read, and share reviews with friends.",
+    "size": 36.4,
+    "reviews": 5310,
+    "ratingAvg": 4.6,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 1320 },
+      { "name": "5 star", "count": 2650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7Jsx85pz/demoApp3.webp",
+    "title": "Trivia Blitz",
+    "companyName": "QuizMasters",
+    "id": 2030,
+    "description": "Fast-paced trivia challenges in multiple categories for all ages.",
+    "size": 59.0,
+    "reviews": 8400,
+    "ratingAvg": 4.5,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 360 },
+      { "name": "2 star", "count": 630 },
+      { "name": "3 star", "count": 1460 },
+      { "name": "4 star", "count": 2240 },
+      { "name": "5 star", "count": 1370 }
+    ]
+  }
+]
