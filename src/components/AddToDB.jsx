@@ -27,6 +27,7 @@ const removeToStoredAppList = (id) => {
   const remaining = storedList.filter(
     (product) => Number(product) !== Number(id),
   );
+
   localStorage.setItem("app-list", JSON.stringify(remaining));
   toast.success("Successfully Removed!");
 };

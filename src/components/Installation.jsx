@@ -4,7 +4,6 @@ import { getStoreAppList, removeToStoredAppList } from "../components/AddToDB";
 import { FaDownload } from "react-icons/fa";
 import { IoStar } from "react-icons/io5";
 import { BiSolidLike } from "react-icons/bi";
-// import { useNavigate } from "react-router-dom";
 
 const Installation = ({ allAppPromise }) => {
   const [myAppData, setMyAppData] = useState([]);
@@ -12,11 +11,6 @@ const Installation = ({ allAppPromise }) => {
   const [sort, setSort] = useState([]);
   console.log(sort);
   const tdata = use(allAppPromise);
-  // const navigate = useNavigate();
-
-  // if (myAppData.length == 0) {
-  //   navigate("/error");
-  // }
 
   useEffect(() => {
     const storedApp = getStoreAppList();
@@ -27,6 +21,7 @@ const Installation = ({ allAppPromise }) => {
 
   const handleUninstalled = (id) => {
     removeToStoredAppList(id);
+    window.location.reload();
   };
 
   const handleSort = (type) => {
@@ -53,7 +48,7 @@ const Installation = ({ allAppPromise }) => {
 
         <button
           onClick={() => handleSort("downloads")}
-          className=" border-2 border-gray-400 p-2"
+          className=" border-2 border-gray-400 p-2 hover:cursor-pointer"
         >
           Sort By Download
         </button>
@@ -95,7 +90,7 @@ const Installation = ({ allAppPromise }) => {
                 <div className=" justify-end">
                   <button
                     onClick={() => handleUninstalled(app.id)}
-                    className="bg-[#00d390] p-2 rounded-xs text-white"
+                    className="bg-[#00d390] p-2 rounded-xs text-white hover:cursor-pointer"
                   >
                     Uninstall
                   </button>
